@@ -1,0 +1,10 @@
+C:\Users\TIBN\source\repos\Portal\Portal\bin\Debug\Portal.exe.config
+C:\Users\TIBN\source\repos\Portal\Portal\bin\Debug\Portal.exe
+C:\Users\TIBN\source\repos\Portal\Portal\bin\Debug\Portal.pdb
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.csproj.AssemblyReference.cache
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.Portal.resources
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.Properties.Resources.resources
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.csproj.GenerateResource.cache
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.exe
+C:\Users\TIBN\source\repos\Portal\Portal\obj\Debug\Portal.pdb
