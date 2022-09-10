@@ -1,0 +1,10 @@
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
