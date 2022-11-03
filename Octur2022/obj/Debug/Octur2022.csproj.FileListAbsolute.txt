@@ -1,0 +1,208 @@
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\TIBN\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\Bruno Batista\Downloads\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\Bruno Batista\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\Bruno Simon\Desktop\atividades-android\Octur\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\Bruno Simon\Desktop\atividade_Windows-Forms\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\Bruno Batista\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\TIBN\Downloads\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.pdb
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.exe.config
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.exe
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Octur2022.pdb
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\FireSharp.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.App.config
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.AssemblyReference.cache
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmcadastro.resources
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmbusca.resources
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmpacote.resources
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Frmprincipal.resources
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.Properties.Resources.resources
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.GenerateResource.cache
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.CoreCompileInputs.cache
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.csproj.CopyComplete
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.exe
+C:\Users\TIBN\Desktop\atividade_Windows-Forms-main (2)\atividade_Windows-Forms-main\Octur2022\obj\Debug\Octur2022.pdb
